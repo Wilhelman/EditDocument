@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EditDoc</string>
+    <string name="option_edit_title">Edit title</string>
+    <string name="save">Save</string>
+</resources>
